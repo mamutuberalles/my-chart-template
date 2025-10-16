@@ -1,0 +1,12 @@
+apiVersion: v1
+entries:
+  my-chart-template:
+  - apiVersion: v2
+    created: "2025-10-16T15:21:07.994053214Z"
+    description: A Helm chart for templating, personal use
+    digest: 0a35724f39041b08721ecd52fb6aa2783f7a3b2e3b0e8bce3f4c4dce3377bef3
+    name: my-chart-template
+    urls:
+    - https://github.com/mamutuberalles/my-chart-template/releases/download/my-chart-template-0.0.2/my-chart-template-0.0.2.tgz
+    version: 0.0.2
+generated: "2025-10-16T15:21:07.994060467Z"
