@@ -1,7 +1,7 @@
 replicaCount: 1
 
 image:
-  repository: mamutuberalles/helloapp # TODO change it to my-image
+  repository:  #TODO add image when used
   tag: latest
   pullPolicy: IfNotPresent
 
